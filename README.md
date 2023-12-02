@@ -30,10 +30,4 @@ and, thanks to the `rendezvous` connection, it should be able to `bypass most fi
 
 ![cloudvista-logic](img/cloudvista-logic.png)
 
-## Note
 
-The app doesn't have a `digital signature`. Being an open-source project, it may be detected as a `false positive` by AVs. When compiling it from the source code, add the project to the exception list. Thank you for understanding.
-
-## Contributing
-
-Contributions are welcome and greatly appreciated!
