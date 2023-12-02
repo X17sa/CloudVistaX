@@ -1,0 +1,15 @@
+C:\Users\princ\Downloads\Systen\p2p-main\p2pconn\obj\Debug\p2pconn.csproj.AssemblyReference.cache
+C:\Users\princ\Downloads\Systen\p2p-main\p2pconn\obj\Debug\p2pconn.csproj.SuggestedBindingRedirects.cache
+C:\Users\princ\Downloads\Systen\p2p-main\p2pconn\bin\Debug\p2p.exe.config
+C:\Users\princ\Downloads\Systen\p2p-main\p2pconn\bin\Debug\p2p.exe
+C:\Users\princ\Downloads\Systen\p2p-main\p2pconn\bin\Debug\p2p.pdb
+C:\Users\princ\Downloads\Systen\p2p-main\p2pconn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\princ\Downloads\Systen\p2p-main\p2pconn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\princ\Downloads\Systen\p2p-main\p2pconn\obj\Debug\p2pconn.Form1.resources
+C:\Users\princ\Downloads\Systen\p2p-main\p2pconn\obj\Debug\p2pconn.pDesktop.resources
+C:\Users\princ\Downloads\Systen\p2p-main\p2pconn\obj\Debug\p2p.Properties.Resources.resources
+C:\Users\princ\Downloads\Systen\p2p-main\p2pconn\obj\Debug\p2pconn.csproj.GenerateResource.cache
+C:\Users\princ\Downloads\Systen\p2p-main\p2pconn\obj\Debug\p2pconn.csproj.CoreCompileInputs.cache
+C:\Users\princ\Downloads\Systen\p2p-main\p2pconn\obj\Debug\p2pconn.csproj.CopyComplete
+C:\Users\princ\Downloads\Systen\p2p-main\p2pconn\obj\Debug\p2p.exe
+C:\Users\princ\Downloads\Systen\p2p-main\p2pconn\obj\Debug\p2p.pdb
